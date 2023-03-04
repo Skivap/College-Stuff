@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "13383_111000177.C": "cpp",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "13391.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
