@@ -1,3 +1,3 @@
 # College-Stuff
 uwu
-NTHU Homework Stuff I upload here
+NTHU Homework Solution kinda Stuff I upload here
